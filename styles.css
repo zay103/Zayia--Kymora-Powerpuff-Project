@@ -1,0 +1,13 @@
+body {
+  background-color: pink;
+}
+img {height: 300px;}
+h1 {border: 15px lightblue solid;
+    padding: 20px;}
+h1{font-family: 'Inspiration', cursive;}
+img{ border:20px white solid;
+    margin:100px;
+    padding:30px;
+}
+h2 { font-family: 'Inspiration', cursive;
+}
